@@ -1,0 +1,91 @@
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of bananas at 10p each
+banana at 10p
+20 sales of mangoes at 10p each
+Mango at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of Guavas at 10p each
+Guava at 10p
+5 sales of Plums at 5p each
+Plum at 5p
+2 sales of grapes at 15p each
+grapes at 15p
+Papaya at 20p
+25 sales of Papayas at 20p each
+apple at 10p
+Add 2p Guavas
+Add 3p bananas
+Subtract 5p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of bananas at 10p each
+banana at 10p
+20 sales of mangoes at 10p each
+Mango at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of Guavas at 10p each
+Guava at 10p
+5 sales of Plums at 5p each
+apple at 10p
+20 sales of apples at 10p each
+Multiply 20p Plums
+apple at 10p
+20 sales of bananas at 10p each
+banana at 10p
+Add 5p Guavas
+Subtract 5p mangoes
+12 sales of grapes
+20 sales of mangoes at 10p each
+Mango at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of Guavas at 10p each
+Guava at 10p
+5 sales of Plums at 5p each
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of bananas at 10p each
+banana at 10p
+20 sales of mangoes at 10p each
+Mango at 10p
+20 sales of oranges at 10p each
+orange at 10p
+20 sales of Guavas at 10p each
+Guava at 10p
+5 sales of Plums at 5p each
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of bananas at 10p each
+banana at 10p
+20 sales of mangoes at 10p each
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of bananas at 10p each
+banana at 10p
+20 sales of mangoes at 10p each
+20 sales of apples at 10p each
+Add 20p apples
+apple at 10p
+20 sales of bananas at 10p each
+banana at 10p
+20 sales of mangoes at 10p each
